@@ -1,0 +1,17 @@
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Negocio.deps.json
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Negocio.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Negocio.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Datos.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Entidades.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Datos.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\bin\Debug\net10.0\Entidades.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.csproj.Up2Date
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\refint\Negocio.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\Negocio.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Negocio\obj\Debug\net10.0\ref\Negocio.dll

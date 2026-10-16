@@ -1,0 +1,15 @@
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\bin\Debug\net10.0\Datos.deps.json
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\bin\Debug\net10.0\Datos.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\bin\Debug\net10.0\Datos.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\bin\Debug\net10.0\Entidades.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\bin\Debug\net10.0\Entidades.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.csproj.AssemblyReference.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.csproj.Up2Date
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\refint\Datos.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\Datos.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Datos\obj\Debug\net10.0\ref\Datos.dll

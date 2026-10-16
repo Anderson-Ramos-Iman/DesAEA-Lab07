@@ -1,0 +1,12 @@
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\bin\Debug\net10.0\Entidades.deps.json
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\bin\Debug\net10.0\Entidades.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\bin\Debug\net10.0\Entidades.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.AssemblyInfo.cs
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\refint\Entidades.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.pdb
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\ref\Entidades.dll
+C:\Users\ander\OneDrive\Documentos\TECSUP\CICLO6-C24B\01_Desarrollo_De_Aplicaciones_Empresariales_Avanzado\Semana03\Lab06\Entidades\obj\Debug\net10.0\Entidades.csproj.Up2Date
